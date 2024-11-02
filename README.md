@@ -7,6 +7,8 @@ This repository contains data about GitHub users in Barcelona with over 100 foll
    opportunity for enhancing project collaboration and documentation.
 3. Developers should use wikis and project boards more effectively to enhance collaboration and documentation in their projects.
 
+Link to the code for all questions: https://colab.research.google.com/drive/1g2f4fBvG2CWDRDdLK15WOa4472_MDfHP?usp=sharing#scrollTo=HnTZ8mXt90Y6
+
 ## Files
 
 1. `users.csv`: Contains information about 337 GitHub users in Barcelona with over 100 followers
